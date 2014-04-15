@@ -1,0 +1,92 @@
+module.exports = [
+    {
+        "domain": ".jv.ru",
+        "expirationDate": 1460497505,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ga",
+        "path": "/",
+        "secure": false,
+        "session": false,
+        "storeId": "0",
+        "value": "GA1.2.1291619285.1397425474",
+        "id": 1
+    },
+    {
+        "domain": ".jv.ru",
+        "expirationDate": 1397427305,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "_ym_visorc_958188",
+        "path": "/",
+        "secure": false,
+        "session": false,
+        "storeId": "0",
+        "value": "b",
+        "id": 2
+    },
+    {
+        "domain": ".www.jv.ru",
+        "expirationDate": 1398635103.899168,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "BLA",
+        "path": "/",
+        "secure": false,
+        "session": false,
+        "storeId": "0",
+        "value": "ti8q7rfbgergkrs6i67l5k2l27",
+        "id": 3
+    },
+    {
+        "domain": "www.jv.ru",
+        "expirationDate": 1400055246.899389,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "hash4restore",
+        "path": "/",
+        "secure": false,
+        "session": false,
+        "storeId": "0",
+        "value": "d0739720e6f9d19c39c944679d2afe7c456ed4c6a4b31e6ed2756ce71cca37f6dcfa4a11",
+        "id": 4
+    },
+    {
+        "domain": "www.jv.ru",
+        "expirationDate": 1400055246.899294,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "i",
+        "path": "/",
+        "secure": false,
+        "session": false,
+        "storeId": "0",
+        "value": "388854",
+        "id": 5
+    },
+    {
+        "domain": "www.jv.ru",
+        "expirationDate": 1400017503.899503,
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "kvs",
+        "path": "/",
+        "secure": false,
+        "session": false,
+        "storeId": "0",
+        "value": "d1c43413f97259c9f6f747d24cfd43a045f76b5e",
+        "id": 6
+    },
+    {
+        "domain": "www.jv.ru",
+        "hostOnly": true,
+        "httpOnly": false,
+        "name": "openstat_test",
+        "path": "/",
+        "secure": false,
+        "session": true,
+        "storeId": "0",
+        "value": "1",
+        "id": 7
+    }
+]
